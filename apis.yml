@@ -1,7 +1,11 @@
 aid: kapstone-paper-and-packaging
-url: https://raw.githubusercontent.com/api-evangelist/kapstone-paper-and-packaging/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/kapstone-paper-and-packaging/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.kapstone-paper-and-packaging.com
+description: >-
+  KapStone Paper and Packaging was a producer of containerboard, corrugated products,
+  and specialty paper before being acquired by WestRock.
