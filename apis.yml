@@ -46,6 +46,11 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/westrock/
+    name: WestRock
+    x-relationship: acquired
+    x-evidence: "In November 2018, KapStone was acquired by WestRock for approximately $4."
   - type: LinkedIn
     url: https://www.linkedin.com/company/kapstone-paper-and-packaging-corporation
   - type: Successor Website
