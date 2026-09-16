@@ -1,13 +1,10 @@
 aid: kapstone-paper-and-packaging
 name: KapStone Paper and Packaging
-description: >-
-  KapStone Paper and Packaging Corporation was a producer of containerboard,
-  corrugated products, and specialty paper based in Northbrook, Illinois.
-  In November 2018, KapStone was acquired by WestRock for approximately
-  $4.9 billion, ending its existence as an independent public company.
-  WestRock subsequently merged with Smurfit Kappa in July 2024 to form
-  Smurfit Westrock, the global combined entity that today inherits the
-  legacy KapStone operations.
+description: KapStone Paper and Packaging Corporation was a producer of containerboard, corrugated products,
+  and specialty paper based in Northbrook, Illinois. In November 2018, KapStone was acquired by WestRock
+  for approximately $4.9 billion, ending its existence as an independent public company. WestRock subsequently
+  merged with Smurfit Kappa in July 2024 to form Smurfit Westrock, the global combined entity that today
+  inherits the legacy KapStone operations.
 type: Index
 deliveryModel:
   model: unknown
@@ -33,30 +30,30 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/kapstone-paper-and-packaging.png
 tags:
-  - Acquired
-  - Containerboard
-  - Corrugated
-  - Defunct
-  - Packaging
-  - Paper
-url: >-
-  https://raw.githubusercontent.com/api-evangelist/kapstone-paper-and-packaging/refs/heads/main/apis.yml
+- Acquired
+- Containerboard
+- Corrugated
+- Defunct
+- Packaging
+- Paper
+url: https://raw.githubusercontent.com/api-evangelist/kapstone-paper-and-packaging/refs/heads/main/apis.yml
 created: '2024-01-01'
-modified: '2026-04-28'
+modified: '2026-09-15'
 specificationVersion: '0.23'
 apis: []
 common:
-  - type: ParentCompany
-    url: https://apis.io/providers/westrock/
-    name: WestRock
-    x-relationship: acquired
-    x-evidence: "In November 2018, KapStone was acquired by WestRock for approximately $4."
-  - type: LinkedIn
-    url: https://www.linkedin.com/company/kapstone-paper-and-packaging-corporation
-  - type: Successor Website
-    url: https://www.smurfitwestrock.com
-  - type: Acquirer
-    url: https://www.westrock.com
+- type: ParentCompany
+  url: https://apis.io/providers/westrock/
+  name: WestRock
+  x-relationship: acquired
+  x-evidence: In November 2018, KapStone was acquired by WestRock for approximately $4.
+- type: LinkedIn
+  url: https://www.linkedin.com/company/kapstone-paper-and-packaging-corporation
+- type: Successor Website
+  url: https://www.smurfitwestrock.com
+- type: Acquirer
+  url: https://www.westrock.com
 maintainers:
-  - FN: Kin Lane
-    email: kin@apievangelist.com
+- FN: Kin Lane
+  email: kin@apievangelist.com
+x-status: defunct
