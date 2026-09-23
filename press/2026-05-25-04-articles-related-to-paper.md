@@ -1,7 +1,9 @@
 ---
 title: Articles related to paper
 url: https://www.nipimpressions.com/news.php?keyword=paper
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"KapStone Paper & Packaging" press release artificial intelligence'
 position: 4
 source: serpapi-google

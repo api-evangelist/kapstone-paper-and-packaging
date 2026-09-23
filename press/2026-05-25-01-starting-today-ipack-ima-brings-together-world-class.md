@@ -1,7 +1,9 @@
 ---
 title: Starting today, IPACK-IMA brings together world-class ...
 url: http://globalprintmonitor.info/en/blogs/packaging/72453-starting-today-ipack-ima-brings-together-world-class-leaders-in-processing-packaging-and-new-materials
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"KapStone Paper & Packaging" press release artificial intelligence'
 position: 1
 source: serpapi-google

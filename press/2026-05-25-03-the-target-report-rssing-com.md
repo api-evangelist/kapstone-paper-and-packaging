@@ -1,7 +1,9 @@
 ---
 title: The Target Report - RSSing.com
 url: https://target2622.rssing.com/chan-54400276/all_p3.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"KapStone Paper & Packaging" press release artificial intelligence'
 position: 3
 source: serpapi-google
